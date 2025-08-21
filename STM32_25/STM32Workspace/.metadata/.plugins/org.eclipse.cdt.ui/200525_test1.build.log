@@ -1,0 +1,22 @@
+21:34:04 **** Incremental Build of configuration Debug for project 200525_test1 ****
+make -j8 all 
+arm-none-eabi-g++ -o "200525_test1.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\STM32Workspace\200525_test1\STM32F407VETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="200525_test1.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+Finished building target: 200525_test1.elf
+ 
+arm-none-eabi-size  200525_test1.elf 
+arm-none-eabi-objdump -h -S 200525_test1.elf  > "200525_test1.list"
+arm-none-eabi-objcopy  -O ihex 200525_test1.elf  "200525_test1.hex"
+   text	   data	    bss	    dec	    hex	filename
+   5856	     12	   1572	   7440	   1d10	200525_test1.elf
+arm-none-eabi-objcopy  -O binary 200525_test1.elf  "200525_test1.bin"
+Finished building: default.size.stdout
+ 
+Finished building: 200525_test1.hex
+Finished building: 200525_test1.bin
+ 
+ 
+Finished building: 200525_test1.list
+ 
+
+21:34:08 Build Finished. 0 errors, 0 warnings. (took 4s.684ms)
+

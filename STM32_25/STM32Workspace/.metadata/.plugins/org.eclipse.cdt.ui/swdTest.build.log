@@ -1,0 +1,10 @@
+18:12:49 **** Incremental Build of configuration Debug for project swdTest ****
+make -j8 all 
+arm-none-eabi-size  swdTest.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12040	    104	   1976	  14120	   3728	swdTest.elf
+Finished building: default.size.stdout
+ 
+
+18:12:49 Build Finished. 0 errors, 0 warnings. (took 355ms)
+

@@ -1,0 +1,138 @@
+2025-06-14 00:04:02,053 [INFO] WebApp:194 - Connection lost
+2025-06-14 00:04:02,306 [INFO] WebApp:191 - Connection restablished
+2025-06-14 00:19:39,679 [INFO] Gpio:277 - dependency for GPIO []
+2025-06-14 00:19:39,755 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-06-14 00:19:44,165 [INFO] Gpio:277 - dependency for GPIO []
+2025-06-14 00:19:44,226 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-06-14 00:19:45,543 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 424813120 Bytes (912261120)
+2025-06-14 00:19:47,443 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 457318976 Bytes (912261120)
+2025-06-14 00:19:47,826 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 483533376 Bytes (912261120)
+2025-06-14 00:19:48,558 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-06-14 00:19:48,558 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-06-14 00:19:48,559 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-06-14 00:19:48,572 [INFO] CodeGenerator:882 - code generatio: config db path: D:\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.1.202504091515\\db\
+2025-06-14 00:19:48,693 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\MXTmpFiles\license.tmp_save
+2025-06-14 00:19:49,043 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\MXTmpFiles\license.tmp
+2025-06-14 00:19:49,113 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\MXTmpFiles\gpio.tmp_save
+2025-06-14 00:19:49,280 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\MXTmpFiles\gpio.tmp
+2025-06-14 00:19:49,301 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_it.c_save
+2025-06-14 00:19:49,632 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_it.c
+2025-06-14 00:19:49,642 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_it.h_save
+2025-06-14 00:19:49,744 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_it.h
+2025-06-14 00:19:49,791 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_hal_msp.c_save
+2025-06-14 00:19:49,929 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_hal_msp.c
+2025-06-14 00:19:49,935 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\MXTmpFiles\system.tmp_save
+2025-06-14 00:19:50,013 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\MXTmpFiles\system.tmp
+2025-06-14 00:19:50,027 [INFO] CodeEngine:319 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-06-14 00:19:50,125 [INFO] CodeEngine:343 - Generated code: D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_hal_conf.h
+2025-06-14 00:19:50,199 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Inc\main.h_save
+2025-06-14 00:19:50,338 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Inc\main.h
+2025-06-14 00:19:50,345 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Src\main.c_save
+2025-06-14 00:19:50,496 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Src\main.c
+2025-06-14 00:19:50,958 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 231mS.
+2025-06-14 00:19:50,964 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0.1-B1
+2025-06-14 00:19:51,104 [INFO] ConfigFileManager:1590 - The Die is : DIE413
+2025-06-14 00:19:52,984 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 2020mS.
+2025-06-14 00:19:52,986 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 1mS.
+2025-06-14 00:19:52,989 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-06-14 00:30:29,899 [INFO] Gpio:277 - dependency for GPIO []
+2025-06-14 00:30:29,954 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-06-14 00:30:33,296 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 537506912 Bytes (912261120)
+2025-06-14 00:30:35,145 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 560053344 Bytes (912261120)
+2025-06-14 00:30:39,491 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 636073056 Bytes (912261120)
+2025-06-14 00:30:39,737 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-06-14 00:30:39,737 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-06-14 00:30:39,738 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-06-14 00:30:39,741 [INFO] CodeGenerator:882 - code generatio: config db path: D:\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.1.202504091515\\db\
+2025-06-14 00:30:39,873 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\MXTmpFiles\license.tmp_save
+2025-06-14 00:30:40,010 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\MXTmpFiles\license.tmp
+2025-06-14 00:30:40,050 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\MXTmpFiles\gpio.tmp_save
+2025-06-14 00:30:40,172 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\MXTmpFiles\gpio.tmp
+2025-06-14 00:30:40,191 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_it.c_save
+2025-06-14 00:30:40,454 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_it.c
+2025-06-14 00:30:40,465 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_it.h_save
+2025-06-14 00:30:40,556 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_it.h
+2025-06-14 00:30:40,590 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_hal_msp.c_save
+2025-06-14 00:30:40,710 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_hal_msp.c
+2025-06-14 00:30:40,715 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\MXTmpFiles\system.tmp_save
+2025-06-14 00:30:40,788 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\MXTmpFiles\system.tmp
+2025-06-14 00:30:40,803 [INFO] CodeEngine:319 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-06-14 00:30:40,877 [INFO] CodeEngine:343 - Generated code: D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_hal_conf.h
+2025-06-14 00:30:40,923 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Inc\main.h_save
+2025-06-14 00:30:41,040 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Inc\main.h
+2025-06-14 00:30:41,048 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Src\main.c_save
+2025-06-14 00:30:41,186 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Src\main.c
+2025-06-14 00:30:41,822 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 426mS.
+2025-06-14 00:30:41,830 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0.1-B1
+2025-06-14 00:30:41,969 [INFO] ConfigFileManager:1590 - The Die is : DIE413
+2025-06-14 00:30:43,259 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 1429mS.
+2025-06-14 00:30:43,261 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 1mS.
+2025-06-14 00:30:43,264 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-06-14 00:33:17,872 [INFO] Gpio:277 - dependency for GPIO []
+2025-06-14 00:33:23,339 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 607918104 Bytes (912261120)
+2025-06-14 00:33:25,234 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 630986776 Bytes (912261120)
+2025-06-14 00:33:25,479 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 662966296 Bytes (912261120)
+2025-06-14 00:33:25,662 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-06-14 00:33:25,663 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-06-14 00:33:25,663 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-06-14 00:33:25,666 [INFO] CodeGenerator:882 - code generatio: config db path: D:\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.1.202504091515\\db\
+2025-06-14 00:33:25,743 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\MXTmpFiles\license.tmp_save
+2025-06-14 00:33:25,807 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\MXTmpFiles\license.tmp
+2025-06-14 00:33:25,843 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\MXTmpFiles\gpio.tmp_save
+2025-06-14 00:33:25,914 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\MXTmpFiles\gpio.tmp
+2025-06-14 00:33:25,928 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_it.c_save
+2025-06-14 00:33:26,006 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_it.c
+2025-06-14 00:33:26,014 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_it.h_save
+2025-06-14 00:33:26,071 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_it.h
+2025-06-14 00:33:26,100 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_hal_msp.c_save
+2025-06-14 00:33:26,189 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_hal_msp.c
+2025-06-14 00:33:26,193 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\MXTmpFiles\system.tmp_save
+2025-06-14 00:33:26,254 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\MXTmpFiles\system.tmp
+2025-06-14 00:33:26,266 [INFO] CodeEngine:319 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-06-14 00:33:26,333 [INFO] CodeEngine:343 - Generated code: D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_hal_conf.h
+2025-06-14 00:33:26,370 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Inc\main.h_save
+2025-06-14 00:33:26,449 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Inc\main.h
+2025-06-14 00:33:26,456 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Src\main.c_save
+2025-06-14 00:33:26,569 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Src\main.c
+2025-06-14 00:33:27,033 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 256mS.
+2025-06-14 00:33:27,038 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0.1-B1
+2025-06-14 00:33:27,127 [INFO] ConfigFileManager:1590 - The Die is : DIE413
+2025-06-14 00:33:28,260 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 1222mS.
+2025-06-14 00:33:28,261 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 1mS.
+2025-06-14 00:33:28,264 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-06-14 00:33:48,565 [INFO] WebApp:194 - Connection lost
+2025-06-14 00:33:48,912 [INFO] WebApp:191 - Connection restablished
+2025-06-14 00:42:17,592 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,2,27,310x310,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-06-14 00:44:22,506 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 325933272 Bytes (912261120)
+2025-06-14 00:44:25,183 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 366827736 Bytes (912261120)
+2025-06-14 00:44:25,605 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 393042136 Bytes (912261120)
+2025-06-14 00:44:25,888 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-06-14 00:44:25,888 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-06-14 00:44:25,889 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-06-14 00:44:25,892 [INFO] CodeGenerator:882 - code generatio: config db path: D:\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.1.202504091515\\db\
+2025-06-14 00:44:26,011 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\MXTmpFiles\license.tmp_save
+2025-06-14 00:44:26,117 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\MXTmpFiles\license.tmp
+2025-06-14 00:44:26,167 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\MXTmpFiles\gpio.tmp_save
+2025-06-14 00:44:26,272 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\MXTmpFiles\gpio.tmp
+2025-06-14 00:44:26,284 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_it.c_save
+2025-06-14 00:44:26,400 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_it.c
+2025-06-14 00:44:26,405 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_it.h_save
+2025-06-14 00:44:26,468 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_it.h
+2025-06-14 00:44:26,491 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_hal_msp.c_save
+2025-06-14 00:44:26,594 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Src\stm32f4xx_hal_msp.c
+2025-06-14 00:44:26,599 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\MXTmpFiles\system.tmp_save
+2025-06-14 00:44:26,703 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\MXTmpFiles\system.tmp
+2025-06-14 00:44:26,730 [INFO] CodeEngine:319 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-06-14 00:44:26,803 [INFO] CodeEngine:343 - Generated code: D:\STM32Workspace\steeringAngle\Core\Inc\stm32f4xx_hal_conf.h
+2025-06-14 00:44:26,832 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Inc\main.h_save
+2025-06-14 00:44:26,899 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Inc\main.h
+2025-06-14 00:44:26,904 [INFO] CodeEngine:263 - oldGeneratedFile, D:\STM32Workspace\steeringAngle\Core\Src\main.c_save
+2025-06-14 00:44:27,011 [INFO] CodeEngine:287 - Generated code: D:\STM32Workspace\steeringAngle\Core\Src\main.c
+2025-06-14 00:44:27,505 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 321mS.
+2025-06-14 00:44:27,510 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0.1-B1
+2025-06-14 00:44:27,644 [INFO] ConfigFileManager:1590 - The Die is : DIE413
+2025-06-14 00:44:28,662 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 1153mS.
+2025-06-14 00:44:28,665 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 1mS.
+2025-06-14 00:44:28,669 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-06-14 01:04:18,033 [INFO] WebApp:194 - Connection lost
+2025-06-14 01:04:18,265 [INFO] WebApp:191 - Connection restablished

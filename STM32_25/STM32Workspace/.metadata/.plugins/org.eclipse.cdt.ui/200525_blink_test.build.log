@@ -1,0 +1,25 @@
+22:47:25 **** Incremental Build of configuration Debug for project 200525_blink_test ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c:48:1: error: unknown type name 'FATFS'
+   48 | FATFS fs;     // File system object
+      | ^~~~~
+../Core/Src/main.c:49:1: error: unknown type name 'FRESULT'
+   49 | FRESULT res;
+      | ^~~~~~~
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:99:9: warning: implicit declaration of function 'f_mount' [-Wimplicit-function-declaration]
+   99 |   res = f_mount(&fs, "", 1);
+      |         ^~~~~~~
+../Core/Src/main.c:101:14: error: 'FR_OK' undeclared (first use in this function)
+  101 |   if (res != FR_OK)
+      |              ^~~~~
+../Core/Src/main.c:101:14: note: each undeclared identifier is reported only once for each function it appears in
+../Core/Src/main.c:104:23: error: 'LED_SD' undeclared (first use in this function)
+  104 |     HAL_GPIO_WritePin(LED_SD, GPIO_PIN_6, GPIO_PIN_RESET);
+      |                       ^~~~~~
+make: *** [Core/Src/subdir.mk:34: Core/Src/main.o] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+22:47:26 Build Failed. 5 errors, 1 warnings. (took 1s.218ms)
+

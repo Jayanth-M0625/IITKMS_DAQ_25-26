@@ -1,0 +1,51 @@
+2025-07-28 00:00:11,115 [INFO] AnalyticsPlugin:363 - Accepted License(s) without tracking enabled: [FW.L4.1.18.0]
+2025-07-28 00:00:11,530 [INFO] FileExtend:248 - Unzip File : stm32cube_fw_l4_v1180.zip
+2025-07-28 00:00:11,531 [INFO] FileExtend:263 - Standard Zip Deflate
+2025-07-28 00:01:47,522 [INFO] ServerAccessManage:452 - Complete download http(s) 200
+2025-07-28 00:01:47,525 [INFO] ServerAccessManage:509 - Download File stm32cube_fw_l4_v1181.zip
+2025-07-28 00:04:36,345 [INFO] FileExtend:248 - Unzip File : stm32cube_fw_l4_v1181.zip
+2025-07-28 00:04:36,346 [INFO] FileExtend:263 - Standard Zip Deflate
+2025-07-28 00:05:52,944 [INFO] LoadServerPackagesThread:196 - End of LoadServerPackages Thread
+2025-07-28 00:05:53,376 [INFO] ThirdPartyModel:298 - Start build external matchings
+2025-07-28 00:05:53,669 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 972925240 Bytes (1073741824)
+2025-07-28 00:05:55,502 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-07-28 00:05:55,503 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-07-28 00:05:55,503 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: LPUART
+2025-07-28 00:05:55,503 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USB_OTG_FS
+2025-07-28 00:05:55,503 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-07-28 00:05:55,504 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-07-28 00:05:55,507 [INFO] CodeGenerator:892 - code generatio: config db path: D:\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-07-28 00:05:55,967 [INFO] ThirdPartyModel:316 - End build external matchings
+2025-07-28 00:05:55,996 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2025-07-28 00:05:56,398 [INFO] CodeEngine:265 - oldGeneratedFile, D:\STM32Workspace\ROBOdebugTest\MXTmpFiles\license.tmp_save
+2025-07-28 00:05:57,346 [INFO] CodeEngine:289 - Generated code: D:\STM32Workspace\ROBOdebugTest\MXTmpFiles\license.tmp
+2025-07-28 00:05:57,848 [INFO] CodeEngine:265 - oldGeneratedFile, D:\STM32Workspace\ROBOdebugTest\MXTmpFiles\gpio.tmp_save
+2025-07-28 00:05:58,107 [INFO] CodeEngine:289 - Generated code: D:\STM32Workspace\ROBOdebugTest\MXTmpFiles\gpio.tmp
+2025-07-28 00:05:59,064 [WARN] IPConfigManager:3238 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2025-07-28 00:05:59,148 [INFO] CodeEngine:265 - oldGeneratedFile, D:\STM32Workspace\ROBOdebugTest\Core\Src\stm32l4xx_it.c_save
+2025-07-28 00:05:59,420 [INFO] CodeEngine:289 - Generated code: D:\STM32Workspace\ROBOdebugTest\Core\Src\stm32l4xx_it.c
+2025-07-28 00:05:59,451 [INFO] CodeEngine:265 - oldGeneratedFile, D:\STM32Workspace\ROBOdebugTest\Core\Inc\stm32l4xx_it.h_save
+2025-07-28 00:05:59,589 [INFO] CodeEngine:289 - Generated code: D:\STM32Workspace\ROBOdebugTest\Core\Inc\stm32l4xx_it.h
+2025-07-28 00:05:59,645 [INFO] CodeEngine:265 - oldGeneratedFile, D:\STM32Workspace\ROBOdebugTest\Core\Src\stm32l4xx_hal_msp.c_save
+2025-07-28 00:05:59,921 [INFO] CodeEngine:289 - Generated code: D:\STM32Workspace\ROBOdebugTest\Core\Src\stm32l4xx_hal_msp.c
+2025-07-28 00:05:59,952 [INFO] CodeEngine:265 - oldGeneratedFile, D:\STM32Workspace\ROBOdebugTest\MXTmpFiles\system.tmp_save
+2025-07-28 00:06:00,085 [INFO] CodeEngine:289 - Generated code: D:\STM32Workspace\ROBOdebugTest\MXTmpFiles\system.tmp
+2025-07-28 00:06:00,147 [INFO] CodeEngine:321 - oldGeneratedFile, D:\STM32Workspace\ROBOdebugTest\Core\Inc\stm32l4xx_hal_conf.h_save
+2025-07-28 00:06:00,321 [INFO] CodeEngine:345 - Generated code: D:\STM32Workspace\ROBOdebugTest\Core\Inc\stm32l4xx_hal_conf.h
+2025-07-28 00:06:00,446 [INFO] ApiDbMcu:532 - Load IP Config File for LPUART1
+2025-07-28 00:06:00,463 [INFO] ApiDbMcu:532 - Load IP Config File for USB_OTG_FS
+2025-07-28 00:06:00,473 [INFO] ApiDbMcu:532 - Load IP Config File for RCC
+2025-07-28 00:06:00,481 [WARN] IPConfigManager:3811 - IP not found : USB_OTG
+2025-07-28 00:06:00,483 [WARN] CodeGenerator:4259 - IP not found : null
+2025-07-28 00:06:00,520 [INFO] CodeEngine:265 - oldGeneratedFile, D:\STM32Workspace\ROBOdebugTest\Core\Inc\main.h_save
+2025-07-28 00:06:00,727 [INFO] CodeEngine:289 - Generated code: D:\STM32Workspace\ROBOdebugTest\Core\Inc\main.h
+2025-07-28 00:06:00,758 [INFO] CodeEngine:265 - oldGeneratedFile, D:\STM32Workspace\ROBOdebugTest\Core\Src\main.c_save
+2025-07-28 00:06:01,047 [INFO] CodeEngine:289 - Generated code: D:\STM32Workspace\ROBOdebugTest\Core\Src\main.c
+2025-07-28 00:06:02,011 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 479mS.
+2025-07-28 00:06:02,030 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-07-28 00:06:02,299 [INFO] ConfigFileManager:1595 - The Die is : DIE461
+2025-07-28 00:06:02,565 [INFO] ApiDbMcu:532 - Load IP Config File for FATFS
+2025-07-28 00:06:02,785 [INFO] ApiDbMcu:532 - Load IP Config File for FREERTOS
+2025-07-28 00:06:02,901 [INFO] ApiDbMcu:532 - Load IP Config File for TOUCHSENSING
+2025-07-28 00:06:03,196 [INFO] ApiDbMcu:532 - Load IP Config File for USB_DEVICE
+2025-07-28 00:06:03,237 [INFO] ApiDbMcu:532 - Load IP Config File for USB_HOST

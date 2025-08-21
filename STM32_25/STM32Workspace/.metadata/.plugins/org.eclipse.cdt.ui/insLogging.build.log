@@ -1,0 +1,10 @@
+23:10:36 **** Incremental Build of configuration Debug for project insLogging ****
+make -j8 all 
+arm-none-eabi-size  insLogging.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20856	     12	   2196	  23064	   5a18	insLogging.elf
+Finished building: default.size.stdout
+ 
+
+23:10:38 Build Finished. 0 errors, 0 warnings. (took 1s.815ms)
+

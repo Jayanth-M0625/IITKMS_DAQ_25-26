@@ -1,0 +1,8 @@
+../Core/Src/main.c:60:9:BSP_SD_IsDetected	1
+../Core/Src/main.c:67:5:_write	2
+../Core/Src/main.c:85:5:main	3
+../Core/Src/main.c:153:6:SystemClock_Config	3
+../Core/Src/main.c:200:13:MX_SDIO_SD_Init	3
+../Core/Src/main.c:236:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:269:13:MX_GPIO_Init	1
+../Core/Src/main.c:310:6:Error_Handler	1

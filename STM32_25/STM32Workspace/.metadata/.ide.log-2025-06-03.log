@@ -1,0 +1,5 @@
+2025-06-04 00:22:40,208 [INFO] WebAppUi:294 - Path where cad_preferences.json is located C:\Users\jayan/.stm32cubeide/
+2025-06-04 00:22:40,286 [INFO] WebAppUi:295 - Updating consent from JSON file
+2025-06-04 00:22:40,751 [INFO] WebApp:403 - JxBrowser engine has been closed 
+2025-06-04 00:22:40,751 [INFO] WebAppUi:493 - JxBrowser engine has been closed 
+2025-06-04 00:22:40,751 [INFO] WebAppUi:530 - Close the Jxbrowser engine manually
